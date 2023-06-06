@@ -42,11 +42,7 @@ Sentiment: positive
 
 To customize the sentiment analysis, you can modify the training data by adding or removing documents in the code. The current code provides a basic set of sample data for training the classifier. Feel free to expand the dataset with more positive and negative examples to improve the accuracy of the sentiment analysis.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
 
 The sentiment analysis code in this project utilizes the `natural` library, which is a powerful natural language processing library for Node.js. Special thanks to the authors and contributors of the `natural` library for providing a useful tool for NLP tasks.
 
